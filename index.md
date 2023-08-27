@@ -1,27 +1,8 @@
-# Yohaan Chokhany
+# Yohaan Chokhany's First CS193 Homework
 
-## This is my webpage
-
-### ~ Purdue University CS 193
-
-```
-This is so cool WOW!
-Please read all of this.
-
-Thank you for listening to my TED talk!
-
-Here is the template:
-
-## Welcome to GitHub Pages
-```
-
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- We learn about the real world experience of higher classmen
+- We learn about the inner workings of a real world company
+- It is a lot of fun
 
 ```markdown
 Syntax highlighted code block
